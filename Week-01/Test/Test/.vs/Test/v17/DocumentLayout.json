@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|solutionrelative:W1Lecture\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|solutionrelative:W1Lecture\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|solutionrelative:W1Lecture\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\prg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|solutionrelative:W1Lecture\\prg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3809D829-2E5A-469F-953C-255097FB6DD9}|W1Lecture\\W1Lecture.vcxproj|solutionrelative:W1Lecture\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\4-TwoStepsCloserToBEOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:W1Lecture\\4-TwoStepsCloserToBEOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\3-!stepCloserToOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:W1Lecture\\3-!stepCloserToOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\2-Not_OO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:W1Lecture\\2-Not_OO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\1-cincoutnamespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:W1Lecture\\1-cincoutnamespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Game.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\Game.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Game.cpp",
+              "RelativeToolTip": "W1Lecture\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T22:31:29.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Game.h",
+              "RelativeDocumentMoniker": "W1Lecture\\Game.h",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Game.h",
+              "RelativeToolTip": "W1Lecture\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T22:31:17.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Student.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\Student.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Student.cpp",
+              "RelativeToolTip": "W1Lecture\\Student.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T22:21:44.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.h",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Student.h",
+              "RelativeDocumentMoniker": "W1Lecture\\Student.h",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\Student.h",
+              "RelativeToolTip": "W1Lecture\\Student.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T22:18:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prg.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\prg.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\prg.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\prg.cpp",
+              "RelativeToolTip": "W1Lecture\\prg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T22:04:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4-TwoStepsCloserToBEOO.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\4-TwoStepsCloserToBEOO.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\4-TwoStepsCloserToBEOO.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\4-TwoStepsCloserToBEOO.cpp",
+              "RelativeToolTip": "W1Lecture\\4-TwoStepsCloserToBEOO.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T22:02:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3-!stepCloserToOO.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\3-!stepCloserToOO.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\3-!stepCloserToOO.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\3-!stepCloserToOO.cpp",
+              "RelativeToolTip": "W1Lecture\\3-!stepCloserToOO.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T21:51:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2-Not_OO.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\2-Not_OO.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\2-Not_OO.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\2-Not_OO.cpp",
+              "RelativeToolTip": "W1Lecture\\2-Not_OO.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T21:30:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1-cincoutnamespace.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\1-cincoutnamespace.cpp",
+              "RelativeDocumentMoniker": "W1Lecture\\1-cincoutnamespace.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Test\\Test\\W1Lecture\\1-cincoutnamespace.cpp",
+              "RelativeToolTip": "W1Lecture\\1-cincoutnamespace.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T21:02:01.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+	cout << "Welcome to your nightmare --> NOT" << endl;
+
+	return 0;
+}

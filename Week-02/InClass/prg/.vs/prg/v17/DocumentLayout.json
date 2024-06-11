@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0E9714-6DA3-4A60-9539-133FE6B55230}|prg\\prg.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\prg\\prg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0E9714-6DA3-4A60-9539-133FE6B55230}|prg\\prg.vcxproj|solutionrelative:prg\\prg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0E9714-6DA3-4A60-9539-133FE6B55230}|prg\\prg.vcxproj|E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\prg\\2-structAreTypeInC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C0E9714-6DA3-4A60-9539-133FE6B55230}|prg\\prg.vcxproj|solutionrelative:prg\\2-structAreTypeInC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prg.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\prg\\prg.cpp",
+              "RelativeDocumentMoniker": "prg\\prg.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\prg\\prg.cpp",
+              "RelativeToolTip": "prg\\prg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T16:04:27.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2-structAreTypeInC\u002B\u002B.cpp",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\prg\\2-structAreTypeInC\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "prg\\2-structAreTypeInC\u002B\u002B.cpp",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\OOP244\\Week-2\\InClass\\prg\\prg\\2-structAreTypeInC\u002B\u002B.cpp",
+              "RelativeToolTip": "prg\\2-structAreTypeInC\u002B\u002B.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T16:04:26.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
