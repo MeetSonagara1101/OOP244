@@ -1,0 +1,12 @@
+﻿  Name.cpp
+  prg.cpp
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(28,42): warning C4311: '<function-style-cast>': pointer truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(28,42): warning C4302: '<function-style-cast>': truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(29,42): warning C4311: '<function-style-cast>': pointer truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(29,42): warning C4302: '<function-style-cast>': truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(31,41): warning C4311: '<function-style-cast>': pointer truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(31,41): warning C4302: '<function-style-cast>': truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(32,42): warning C4311: '<function-style-cast>': pointer truncation from 'seneca::Name *' to 'unsigned int'
+C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\W4\prg.cpp(32,42): warning C4302: '<function-style-cast>': truncation from 'seneca::Name *' to 'unsigned int'
+  Generating Code...
+  W4.vcxproj -> C:\Users\m_gur\source\repos\Summer 2024\OOP 244 - ZRA\W4\x64\Debug\W4.exe
